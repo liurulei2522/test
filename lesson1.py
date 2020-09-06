@@ -1,3 +1,4 @@
 import pymysql as engine
-i = 'hello'
-print(i)
+i = 'hello '
+j = 'world'
+print(i+j)
